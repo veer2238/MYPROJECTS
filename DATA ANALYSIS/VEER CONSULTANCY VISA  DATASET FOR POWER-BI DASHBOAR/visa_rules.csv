@@ -1,0 +1,169 @@
+country,visa_type,processing_time_days,fee,success_rate
+Germany,Tourist,15,4875,95
+Germany,Work,20,18719,69
+Germany,Student,65,22432,55
+Germany,Business,13,11067,67
+France,Tourist,8,4655,70
+France,Work,32,17976,65
+France,Student,89,13429,68
+France,Business,26,8389,85
+Italy,Tourist,8,7524,80
+Italy,Work,52,19948,71
+Italy,Student,90,15592,58
+Italy,Business,19,7146,69
+Spain,Tourist,13,4996,72
+Spain,Work,31,16708,52
+Spain,Student,41,21707,59
+Spain,Business,20,8372,82
+Netherlands,Tourist,19,5149,75
+Netherlands,Work,33,9138,56
+Netherlands,Student,54,23613,58
+Netherlands,Business,17,6404,61
+Sweden,Tourist,13,7286,86
+Sweden,Work,43,18773,61
+Sweden,Student,89,14764,59
+Sweden,Business,29,5498,69
+Norway,Tourist,13,3133,76
+Norway,Work,59,11831,60
+Norway,Student,49,18542,74
+Norway,Business,17,10264,89
+Denmark,Tourist,17,5673,74
+Denmark,Work,45,16860,52
+Denmark,Student,32,18257,67
+Denmark,Business,28,8380,69
+Finland,Tourist,9,7242,87
+Finland,Work,24,12503,79
+Finland,Student,43,25579,41
+Finland,Business,12,11113,82
+Canada,Tourist,14,3590,83
+Canada,Work,27,10644,71
+Canada,Student,32,19671,74
+Canada,Business,30,7412,77
+USA,Tourist,10,5550,83
+USA,Work,41,19801,60
+USA,Student,38,22790,46
+USA,Business,22,5697,63
+UK,Tourist,19,6077,73
+UK,Work,27,10717,79
+UK,Student,41,29820,70
+UK,Business,16,11642,78
+Australia,Tourist,8,7477,87
+Australia,Work,43,18910,58
+Australia,Student,77,12814,61
+Australia,Business,13,13596,85
+New Zealand,Tourist,18,7198,89
+New Zealand,Work,24,17262,74
+New Zealand,Student,31,18682,53
+New Zealand,Business,15,11869,61
+UAE,Tourist,20,5589,73
+UAE,Work,30,19530,63
+UAE,Student,78,16868,40
+UAE,Business,23,11843,76
+Singapore,Tourist,19,4420,85
+Singapore,Work,21,8808,70
+Singapore,Student,71,26131,55
+Singapore,Business,29,14546,61
+Japan,Tourist,10,3831,87
+Japan,Work,50,18893,58
+Japan,Student,85,16714,50
+Japan,Business,23,11441,63
+South Korea,Tourist,18,4153,93
+South Korea,Work,28,13024,59
+South Korea,Student,38,22835,73
+South Korea,Business,23,6164,69
+China,Tourist,11,4494,89
+China,Work,60,17504,76
+China,Student,33,23493,40
+China,Business,21,12369,76
+Thailand,Tourist,16,5263,81
+Thailand,Work,43,17414,79
+Thailand,Student,83,17143,43
+Thailand,Business,14,8533,76
+Malaysia,Tourist,14,5505,86
+Malaysia,Work,57,17949,71
+Malaysia,Student,30,10540,64
+Malaysia,Business,30,13008,65
+Switzerland,Tourist,20,5327,77
+Switzerland,Work,60,13999,65
+Switzerland,Student,84,19419,51
+Switzerland,Business,17,11763,66
+Austria,Tourist,16,7582,84
+Austria,Work,49,14042,57
+Austria,Student,84,19335,48
+Austria,Business,14,13574,76
+Belgium,Tourist,15,7641,85
+Belgium,Work,45,8590,66
+Belgium,Student,52,18873,49
+Belgium,Business,20,8898,88
+Poland,Tourist,9,7072,80
+Poland,Work,41,10404,53
+Poland,Student,84,15624,59
+Poland,Business,14,10186,85
+Czech Republic,Tourist,8,6532,89
+Czech Republic,Work,28,14925,60
+Czech Republic,Student,32,18542,72
+Czech Republic,Business,17,9886,72
+Hungary,Tourist,9,5676,89
+Hungary,Work,40,10713,63
+Hungary,Student,76,24527,69
+Hungary,Business,21,6987,70
+Ireland,Tourist,17,3670,77
+Ireland,Work,46,15469,60
+Ireland,Student,67,23437,45
+Ireland,Business,22,13087,72
+Portugal,Tourist,8,7568,72
+Portugal,Work,20,9994,65
+Portugal,Student,81,14230,54
+Portugal,Business,29,12219,66
+Greece,Tourist,10,4314,89
+Greece,Work,50,8867,52
+Greece,Student,50,12838,42
+Greece,Business,27,6109,77
+Turkey,Tourist,15,3902,72
+Turkey,Work,34,18584,73
+Turkey,Student,56,11289,50
+Turkey,Business,17,7742,76
+Brazil,Tourist,16,3092,78
+Brazil,Work,33,16740,78
+Brazil,Student,64,15577,59
+Brazil,Business,21,6599,79
+Mexico,Tourist,20,7251,82
+Mexico,Work,25,19426,77
+Mexico,Student,42,22672,41
+Mexico,Business,10,10162,78
+Argentina,Tourist,12,4686,76
+Argentina,Work,54,18052,72
+Argentina,Student,53,12478,74
+Argentina,Business,18,7485,71
+Chile,Tourist,8,7402,76
+Chile,Work,52,16698,55
+Chile,Student,47,12304,60
+Chile,Business,24,12728,71
+Colombia,Tourist,7,3372,95
+Colombia,Work,39,12511,63
+Colombia,Student,67,11975,71
+Colombia,Business,23,14411,85
+South Africa,Tourist,12,4619,73
+South Africa,Work,30,9956,78
+South Africa,Student,55,27640,62
+South Africa,Business,18,12467,71
+Egypt,Tourist,10,5583,92
+Egypt,Work,43,16149,53
+Egypt,Student,40,29480,43
+Egypt,Business,11,10127,73
+Morocco,Tourist,10,4888,79
+Morocco,Work,44,16306,64
+Morocco,Student,69,27163,59
+Morocco,Business,17,9092,74
+Kenya,Tourist,13,5709,90
+Kenya,Work,50,16495,73
+Kenya,Student,38,18008,48
+Kenya,Business,16,12479,72
+Russia,Tourist,18,6144,73
+Russia,Work,39,8158,63
+Russia,Student,87,16910,53
+Russia,Business,12,13546,69
+Ukraine,Tourist,13,5125,79
+Ukraine,Work,50,8149,63
+Ukraine,Student,89,27724,45
+Ukraine,Business,10,11989,82
