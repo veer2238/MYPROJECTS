@@ -141,7 +141,7 @@ Filters:
 
 ---
 
-## Data Model Relationships (Suggested)
+## Data Model Relationships 
 
 Ensure the following relationships are properly configured:
 
