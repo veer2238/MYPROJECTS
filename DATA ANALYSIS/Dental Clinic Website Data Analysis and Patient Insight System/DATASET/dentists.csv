@@ -1,0 +1,16 @@
+Dentist_ID,Dentist_Name,Specialization,Experience_Years,Phone_Number,Email,Joining_Date,Availability_Status
+DENT001,Dr. Aarush Mehta,Pediatric Dentist,6,8606407341,aarush.mehta@dentalcare.com,2019-09-14,Available
+DENT002,Dr. Kavish Patel,Pediatric Dentist,10,8161687326,kavish.patel@dentalcare.com,2016-03-18,Available
+DENT003,Dr. Rohan Trivedi,Orthodontist,7,9123874115,rohan.trivedi@dentalcare.com,2019-02-05,Available
+DENT004,Dr. Devika Shah,General Dentist,3,9296276644,devika.shah@dentalcare.com,2023-02-24,On Leave
+DENT005,Dr. Yash Desai,Periodontist,6,8119995227,yash.desai@dentalcare.com,2019-10-15,Available
+DENT006,Dr. Mihika Bhatt,Endodontist,2,8538673623,mihika.bhatt@dentalcare.com,2023-12-20,Available
+DENT007,Dr. Tanishq Vyas,Orthodontist,6,8099597384,tanishq.vyas@dentalcare.com,2019-12-23,Available
+DENT008,Dr. Rhea Soni,Oral Surgeon,1,9395873593,rhea.soni@dentalcare.com,2024-11-24,Available
+DENT009,Dr. Harit Joshi,Periodontist,11,8738571279,harit.joshi@dentalcare.com,2015-03-25,Available
+DENT010,Dr. Krupa Pandya,Endodontist,3,8123473217,krupa.pandya@dentalcare.com,2022-12-19,Available
+DENT011,Dr. Aviral Kothari,General Dentist,2,8936547563,aviral.kothari@dentalcare.com,2023-10-21,Available
+DENT012,Dr. Niyati Purohit,Pediatric Dentist,3,8603290764,niyati.purohit@dentalcare.com,2022-06-19,Available
+DENT013,Dr. Shlok Kulkarni,Endodontist,10,9068553599,shlok.kulkarni@dentalcare.com,2016-02-10,Available
+DENT014,Dr. Ishan Saxena,Endodontist,4,9499040266,ishan.saxena@dentalcare.com,2021-08-25,Available
+DENT015,Dr. Anaya Chaturvedi,Endodontist,8,9941451381,anaya.chaturvedi@dentalcare.com,2017-10-17,Available

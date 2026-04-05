@@ -1,0 +1,21 @@
+Treatment_ID,Treatment_Name,Treatment_Category,Standard_Cost,Duration_Minutes,Risk_Level
+TREAT001,Teeth Cleaning,Preventive,800,36,Low
+TREAT002,Scaling & Polishing,Preventive,1200,46,Low
+TREAT003,Fluoride Treatment,Preventive,600,16,Low
+TREAT004,Dental Filling,Restorative,1500,44,Low
+TREAT005,Tooth Extraction,Surgical,2500,50,Medium
+TREAT006,Wisdom Tooth Removal,Surgical,5000,69,High
+TREAT007,Root Canal Treatment,Restorative,6000,94,Medium
+TREAT008,Dental Crown,Restorative,7000,63,Medium
+TREAT009,Teeth Whitening,Cosmetic,4000,68,Low
+TREAT010,Dental Veneers,Cosmetic,12000,130,Medium
+TREAT011,Braces (Metal),Orthodontic,30000,188,High
+TREAT012,Invisalign,Orthodontic,80000,188,High
+TREAT013,Dental Implants,Surgical,25000,126,High
+TREAT014,Gum Surgery,Surgical,15000,95,High
+TREAT015,Child Dental Care,Preventive,1000,32,Low
+TREAT016,Retainers,Orthodontic,5000,44,Low
+TREAT017,Tooth Bonding,Cosmetic,3500,50,Low
+TREAT018,Smile Makeover,Cosmetic,20000,153,High
+TREAT019,X-Ray (Dental),Diagnostic,500,20,Low
+TREAT020,Oral Checkup,Diagnostic,300,18,Low
