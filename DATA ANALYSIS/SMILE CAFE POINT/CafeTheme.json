@@ -1,0 +1,122 @@
+{
+  "name": "Smile Cafe Premium Pro",
+  "dataColors": [
+    "#4E342E",
+    "#8D6E63",
+    "#D7CCC8",
+    "#A1887F",
+    "#3E2723",
+    "#6D4C41",
+    "#BCAAA4",
+    "#5D4037"
+  ],
+  "background": "#F9F5F1",
+  "foreground": "#2B2B2B",
+  "tableAccent": "#6D4C41",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "title": [
+          {
+            "show": true,
+            "fontFamily": "Segoe UI Semibold",
+            "fontSize": 14,
+            "color": { "solid": { "color": "#3E2723" } }
+          }
+        ],
+        "labels": [
+          {
+            "color": { "solid": { "color": "#2B2B2B" } },
+            "fontSize": 12
+          }
+        ],
+        "background": [
+          {
+            "show": true,
+            "color": { "solid": { "color": "#FFFFFF" } },
+            "transparency": 0
+          }
+        ],
+        "border": [
+          {
+            "show": true,
+            "color": { "solid": { "color": "#E0E0E0" } },
+            "radius": 10
+          }
+        ]
+      }
+    },
+    "page": {
+      "*": {
+        "background": [
+          {
+            "color": { "solid": { "color": "#F9F5F1" } },
+            "transparency": 0
+          }
+        ]
+      }
+    },
+    "card": {
+      "*": {
+        "labels": [
+          {
+            "fontSize": 28,
+            "fontFamily": "Segoe UI Bold",
+            "color": { "solid": { "color": "#4E342E" } }
+          }
+        ],
+        "categoryLabels": [
+          {
+            "fontSize": 12,
+            "color": { "solid": { "color": "#757575" } }
+          }
+        ]
+      }
+    },
+    "slicer": {
+      "*": {
+        "items": [
+          {
+            "color": { "solid": { "color": "#2B2B2B" } },
+            "fontSize": 12
+          }
+        ],
+        "background": [
+          {
+            "color": { "solid": { "color": "#FFF8F2" } }
+          }
+        ],
+        "selection": [
+          {
+            "color": { "solid": { "color": "#6D4C41" } }
+          }
+        ]
+      }
+    },
+    "tableEx": {
+      "*": {
+        "grid": [
+          {
+            "gridVertical": true,
+            "gridHorizontal": true,
+            "outlineColor": { "solid": { "color": "#E0E0E0" } }
+          }
+        ],
+        "header": [
+          {
+            "fontFamily": "Segoe UI Semibold",
+            "fontSize": 12,
+            "color": { "solid": { "color": "#FFFFFF" } },
+            "background": { "solid": { "color": "#6D4C41" } }
+          }
+        ],
+        "values": [
+          {
+            "fontSize": 11,
+            "color": { "solid": { "color": "#2B2B2B" } }
+          }
+        ]
+      }
+    }
+  }
+}
