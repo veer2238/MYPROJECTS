@@ -12,8 +12,7 @@
   "foreground": "#2D3436",
   "tableAccent": "#6C5CE7",
   "visualStyles": {
-    "*": {
-      "*": {
+   
         "title": [
           {
             "show": true,
@@ -33,18 +32,17 @@
           {
             "show": false
           }
-        ]
-      }
-    },
+        ],
+      
     "card": {
-      "*": {
+  
         "labels": [
           {
             "color": "#6C5CE7",
             "fontSize": 20
           }
         ]
-      }
+      
     }
   }
 }
