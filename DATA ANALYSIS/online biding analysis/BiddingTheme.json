@@ -1,0 +1,159 @@
+{
+  "name": "Premium Bidding Analysis Theme",
+  "dataColors": [
+    "#4CAF50",
+    "#FFC107",
+    "#F44336",
+    "#2196F3",
+    "#9C27B0",
+    "#00BCD4"
+  ],
+  "background": "#0F172A",
+  "foreground": "#E5E7EB",
+  "tableAccent": "#4CAF50",
+
+  "visualStyles": {
+    "*": {
+      "*": {
+        "title": [
+          {
+            "show": true,
+            "fontFamily": "Segoe UI Semibold",
+            "fontSize": 14,
+            "color": "#E5E7EB"
+          }
+        ],
+        "background": [
+          {
+            "show": true,
+            "color": "#1E293B",
+            "transparency": 0
+          }
+        ],
+        "border": [
+          {
+            "show": true,
+            "color": "#334155",
+            "radius": 8
+          }
+        ]
+      }
+    },
+
+    "card": {
+      "*": {
+        "labels": [
+          {
+            "color": "#94A3B8",
+            "fontSize": 12
+          }
+        ],
+        "calloutValue": [
+          {
+            "color": "#FFFFFF",
+            "fontSize": 28,
+            "fontFamily": "Segoe UI Bold"
+          }
+        ],
+        "background": [
+          {
+            "color": "#111827"
+          }
+        ]
+      }
+    },
+
+    "clusteredColumnChart": {
+      "*": {
+        "categoryAxis": [
+          {
+            "labelColor": "#CBD5F5",
+            "titleColor": "#E5E7EB"
+          }
+        ],
+        "valueAxis": [
+          {
+            "labelColor": "#CBD5F5",
+            "titleColor": "#E5E7EB",
+            "gridlineColor": "#334155"
+          }
+        ],
+        "dataLabels": [
+          {
+            "color": "#FFFFFF"
+          }
+        ]
+      }
+    },
+
+    "lineChart": {
+      "*": {
+        "categoryAxis": [
+          {
+            "labelColor": "#CBD5F5"
+          }
+        ],
+        "valueAxis": [
+          {
+            "labelColor": "#CBD5F5",
+            "gridlineColor": "#334155"
+          }
+        ],
+        "dataLabels": [
+          {
+            "color": "#E5E7EB"
+          }
+        ]
+      }
+    },
+
+    "tableEx": {
+      "*": {
+        "grid": [
+          {
+            "gridVertical": true,
+            "gridHorizontal": true,
+            "outlineColor": "#334155"
+          }
+        ],
+        "columnHeaders": [
+          {
+            "fontFamily": "Segoe UI Semibold",
+            "fontSize": 13,
+            "color": "#E5E7EB",
+            "backgroundColor": "#1E293B"
+          }
+        ],
+        "values": [
+          {
+            "color": "#CBD5F5",
+            "backgroundColor": "#0F172A"
+          }
+        ]
+      }
+    },
+
+    "slicer": {
+      "*": {
+        "items": [
+          {
+            "color": "#E5E7EB",
+            "backgroundColor": "#1E293B"
+          }
+        ],
+        "selected": [
+          {
+            "color": "#FFFFFF",
+            "backgroundColor": "#4CAF50"
+          }
+        ],
+        "header": [
+          {
+            "fontFamily": "Segoe UI Semibold",
+            "color": "#E5E7EB"
+          }
+        ]
+      }
+    }
+  }
+}
