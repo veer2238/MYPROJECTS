@@ -1,0 +1,50 @@
+{
+  "name": "Zypher Premium Theme",
+  "dataColors": [
+    "#6C5CE7",
+    "#00B894",
+    "#0984E3",
+    "#E17055",
+    "#FDCB6E",
+    "#D63031"
+  ],
+  "background": "#F5F6FA",
+  "foreground": "#2D3436",
+  "tableAccent": "#6C5CE7",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "title": [
+          {
+            "show": true,
+            "fontSize": 14,
+            "fontFamily": "Segoe UI Semibold",
+            "color": "#2D3436"
+          }
+        ],
+        "background": [
+          {
+            "show": true,
+            "color": "#FFFFFF",
+            "transparency": 0
+          }
+        ],
+        "border": [
+          {
+            "show": false
+          }
+        ]
+      }
+    },
+    "card": {
+      "*": {
+        "labels": [
+          {
+            "color": "#6C5CE7",
+            "fontSize": 20
+          }
+        ]
+      }
+    }
+  }
+}
