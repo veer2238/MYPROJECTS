@@ -1,0 +1,156 @@
+{
+  "name": "Premium Dental Analytics Theme",
+  "dataColors": [
+    "#1F77B4",
+    "#2CA02C",
+    "#FF7F0E",
+    "#D62728",
+    "#9467BD",
+    "#17BECF",
+    "#8C564B",
+    "#E377C2"
+  ],
+  "background": "#F4F7FB",
+  "foreground": "#1F2A44",
+  "tableAccent": "#1F77B4",
+
+  "visualStyles": {
+
+    "*": {
+      "*": {
+        "title": [
+          {
+            "show": true,
+            "fontSize": 15,
+            "fontFamily": "Segoe UI Semibold",
+            "color": { "solid": { "color": "#1F2A44" } }
+          }
+        ],
+        "background": [
+          {
+            "show": true,
+            "color": { "solid": { "color": "#FFFFFF" } },
+            "transparency": 0
+          }
+        ],
+        "border": [
+          {
+            "show": true,
+            "color": { "solid": { "color": "#E0E6EF" } },
+            "radius": 8
+          }
+        ],
+        "labels": [
+          {
+            "color": { "solid": { "color": "#2C3E50" } },
+            "fontSize": 11
+          }
+        ]
+      }
+    },
+
+    "card": {
+      "*": {
+        "labels": [
+          {
+            "fontSize": 26,
+            "fontFamily": "Segoe UI Bold",
+            "color": { "solid": { "color": "#1F77B4" } }
+          }
+        ],
+        "categoryLabels": [
+          {
+            "show": true,
+            "color": { "solid": { "color": "#7B8A9A" } },
+            "fontSize": 12
+          }
+        ],
+        "background": [
+          {
+            "color": { "solid": { "color": "#FFFFFF" } }
+          }
+        ]
+      }
+    },
+
+    "slicer": {
+      "*": {
+        "items": [
+          {
+            "color": { "solid": { "color": "#1F2A44" } }
+          }
+        ],
+        "background": [
+          {
+            "color": { "solid": { "color": "#FFFFFF" } }
+          }
+        ],
+        "border": [
+          {
+            "show": true,
+            "color": { "solid": { "color": "#DCE3ED" } }
+          }
+        ]
+      }
+    },
+
+    "tableEx": {
+      "*": {
+        "grid": [
+          {
+            "gridVertical": true,
+            "gridHorizontal": true,
+            "outlineColor": { "solid": { "color": "#E0E6EF" } }
+          }
+        ],
+        "columnHeaders": [
+          {
+            "fontSize": 12,
+            "fontFamily": "Segoe UI Semibold",
+            "color": { "solid": { "color": "#1F2A44" } }
+          }
+        ]
+      }
+    },
+
+    "columnChart": {
+      "*": {
+        "dataPoint": [
+          {
+            "defaultColor": { "solid": { "color": "#1F77B4" } }
+          }
+        ]
+      }
+    },
+
+    "lineChart": {
+      "*": {
+        "dataPoint": [
+          {
+            "defaultColor": { "solid": { "color": "#2CA02C" } }
+          }
+        ]
+      }
+    },
+
+    "pieChart": {
+      "*": {
+        "labels": [
+          {
+            "fontSize": 11
+          }
+        ]
+      }
+    },
+
+    "donutChart": {
+      "*": {
+        "labels": [
+          {
+            "fontSize": 11
+          }
+        ]
+      }
+    }
+  }
+}
